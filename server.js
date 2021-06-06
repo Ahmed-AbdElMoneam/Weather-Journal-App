@@ -48,5 +48,5 @@ app.post('/sendData', (req, res) => {
     projectData.temp = req.body.temp;
     projectData.date = req.body.date;
     projectData.feelings = req.body.feelings;
-    res.send(projectData)
+    res.send(projectData);
 });
