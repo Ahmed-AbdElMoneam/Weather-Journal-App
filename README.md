@@ -30,7 +30,7 @@
 
 ## Project description
 
-It is a dynamic Weather Journal designed for Udacity Web - Professional Track. This web page helps you to know weather status in any US state by entering its zip code into the web app. It will display a card showing the name of the state, its temperature and date. You can also write something about your feeling. This project depends heavily on my knowledge about Asynchronous JavaScript and APIs.
+It is a dynamic Weather Journal designed for Udacity Web - Professional Track. This web page helps you to know weather status in any city by entering its zip code into the web app. It will display a card showing the name of the state, its temperature and date. You can also write something about your feeling. This project depends heavily on my knowledge about Asynchronous JavaScript and APIs.
 
 ## Screenshots
 ![1](https://user-images.githubusercontent.com/68257208/120914415-84330280-c69e-11eb-9571-b2a66841d041.png)
