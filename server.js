@@ -44,6 +44,7 @@ app.get('/all', (req, res) => {
  * @param {callbackFunction}
  */
 app.post('/sendData', (req, res) => {
+    projectData.country =req.body.country;
     projectData.name = req.body.name;
     projectData.temp = req.body.temp;
     projectData.date = req.body.date;
